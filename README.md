@@ -8,5 +8,5 @@ Repositório criado para o Desafio de Projeto.
 
 [DIO | Codifique o seu futuro global agora](https://www.dio.me/)
 
-Livro para estudo complementar **"Controlando versões com Git e GitHub"**
+
 
